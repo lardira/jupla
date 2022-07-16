@@ -1,1 +1,1 @@
-"#Jupla" 
+#Jupla
