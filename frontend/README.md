@@ -1,1 +1,1 @@
-#Jupla's frontend written in JS with React
+# Jupla's frontend written in JS with React
